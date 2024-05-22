@@ -1,7 +1,7 @@
 # WINE QUALITY PREDICTION
 Use a dataset containing wine features to predict the quality of the wine
 
-* This project is a part of my internship at **TechnoHacks Edutech** 
+* This project is a part of my machine learning virtual internship at **TechnoHacks Edutech** 
 
 ## Dataset Information
 These datasets can be viewed as classification or regression tasks. The classes are ordered and not balanced (e.g. there are much more normal wines than excellent or poor ones).
