@@ -22,6 +22,8 @@ Input variables (based on physicochemical tests):
 | **Sulphates**      |  a wine additive which can contribute to sulfur dioxide gas (S02) levels, wich acts as an antimicrobial and antioxidant |
 | **Alcohol**      |  a standard measure of how much alcohol (ethanol) there is within a given volume of the drink, in percentage terms |
 
+
+
 Output variable (based on sensory data):
 * Quality (score between 0 and 10)
 
